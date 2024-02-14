@@ -73,7 +73,6 @@ Created by [koolrugved13] -[https://github.com/koolrugved13] - feel free to cont
 ## Contribution
   -Rugved Raorane
   
-  -Abhijit Ray 
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
